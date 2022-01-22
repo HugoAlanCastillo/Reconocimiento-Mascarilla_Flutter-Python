@@ -1,0 +1,11 @@
+{
+    "nombreApp" : "Componente",
+    "rutas" : [    
+        {
+            "ruta" : "sintomas",
+            "icon" : "sin",
+            "texto": "Síntomas"
+        }
+        
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "nombreApp" : "Componentes",
+    "rutas" : [
+        {
+            "ruta" : "carrera",
+            "icon" : "edifi",
+            "texto": "Carrera"
+        },
+        
+        {
+            "ruta" : "noti",
+            "icon" : "add_alert",
+            "texto": "Notificación"
+        },
+        {
+            "ruta" : "sintomas",
+            "icon" : "sin",
+            "texto": "Síntomas"
+        }
+       
+    ]
+}
